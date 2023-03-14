@@ -1,0 +1,5 @@
+# _config.yml
+
+static_files:
+  - path: /dict
+    upload: dict
